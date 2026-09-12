@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer with 6+ years of experience building scalable, production-ready web and mobile applications. Skilled in JavaScript, TypeScript, React, React Native, Next.js, Node.js, Python, REST APIs, MongoDB, and Generative AI. Experienced in developing end-to-end applications, secure authentication systems, role-based access control, API architectures, AI-powered features, and performance-optimized solutions. I also have experience in data analysis and working with data to derive meaningful insights and support better decision-making. I focus on writing clean, maintainable, scalable code and building practical solutions to solve real-world problems.<br>
+Full-Stack Developer with 6+ years of experience building scalable, production-ready web and mobile applications.<br>
 
 
 ## 🌐 Socials:
